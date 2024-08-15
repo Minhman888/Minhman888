@@ -13,9 +13,9 @@
 - Mobile app development
 
 # Contact information
-- :e-mail: [mannnsannn123@gmail.com](mailto:mannnsannn123@gmail.com)
+- :e-mail: 
 - :telephone_receiver: (84) 33965 8262
 - :globe_with_meridians: [Nguyen Minh Man](https://www.facebook.com/profile.php?id=100018223099437)
-- :house: 254 Nguyen Duy, Phuong 9, Quan 8, VietNam
+- :house: 
 # Interests
 - Play game, listen to music, coding 
